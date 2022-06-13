@@ -1,0 +1,5 @@
+SpeechRecognition
+soundfile
+playsound
+scipy
+gTTS
